@@ -11,3 +11,9 @@ my personal preferences:
 * "European Russia - Caucasus" comes on Wednesday
 * "Siberia - Far East" comes on Friday
 * "YouTube - Podcasts" comes on Sunday
+
+these digests are accesible in an online [archive](https://cho-tam.blogspot.com/). You can subscribe to it via the rss feed or just follow the Twitter bot which gives you a link to any new post.
+
+a version with google translated headlines still has to be built
+
+any suggestions are more than welcome! just contact me via this [email](veronika.snoj@gmail.com)
