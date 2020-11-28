@@ -3,7 +3,7 @@ function sentRssToMailHTML(){
   var date = new Date();  
   
   // we want to get a digest every Monday, Wednesday and Friday
-  // for the google sheet applied, see the read.me section
+  // for the google sheet used, see the read.me section
   
   if (date.getDay() == 1)  
   
