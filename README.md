@@ -18,5 +18,5 @@ any suggestions are more than welcome. just contact me via this [email](veronika
 
 *further action points i'd like to work on:* 
 
-- *find a way to parse YouTube channels*
+- *find a way to parse YouTube channels ...*
 - *... and podcast feeds*
