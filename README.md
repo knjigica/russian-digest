@@ -4,7 +4,7 @@
 above, you can find some code written in apps script which runs through rss feeds saved in this [google sheet](https://docs.google.com/spreadsheets/d/1xgD1MqXMpUEMwPWXOYi7vyYpAA_lDo_xGwfNl8m5t8c/edit?usp=sharing) and sends you a news digest coming from various regions of Russia.
 it comes in two versions: Russian (original) and English (translated with google translate).
 
-many thanks to [yuki-shinno](https://github.com/yuki-shinno/RSS-to-email-script-by-GoogleAppsScript), who gave me the idea for the skeleton code, and my [dad](https://www.linkedin.com/in/jo%C5%BEe-snoj-64452648/) who helped me solve some systematic issues.
+many thanks to [yuki-shinno](https://github.com/yuki-shinno/RSS-to-email-script-by-GoogleAppsScript), who gave me the idea for the skeleton code, and my [dad](https://www.linkedin.com/in/jo%C5%BEe-snoj-64452648/), who helped me solve some systematic issues.
 
 my personal preferences: 
 
