@@ -42,6 +42,7 @@ function sentRssToMailHTML(){
   
   var lastRow = sh.getLastRow();  
 
+  // to give it all a nice formatting
   var body = "<div style='width:100%;max-width:650px'>";
   body += "<table>";
   
@@ -106,7 +107,8 @@ function sentRssToMailHTML(){
    
   // MailApp.sendEmail(recipient, subject, body, {htmlBody:body}); use this if you want to send the digest directly to your email 
   
-   GmailApp.createDraft(recipient, subject, body, {htmlBody:body}); // we create a draft to keep the formatting, if we publish it directly to the bloggers email the html falls into pieces
+   GmailApp.createDraft(recipient, subject, body, {htmlBody:body}); 
+  // we create a draft to keep the formatting, because if we publish it directly to the bloggers email the html falls into pieces
   //GmailApp.createDraft(myemail, subject, error, {htmlBody:error}); if you want to get a list of errors to your emails
   
    var draft = GmailApp.getDrafts()[0]; // The first draft message in the drafts folder 
