@@ -1,5 +1,5 @@
 # russian-digest
-*news digests running from Russian media*
+*news digests from Russian media*
 
 above, you can find some code written in apps script which runs through rss feeds saved in this [google sheet](https://docs.google.com/spreadsheets/d/1xgD1MqXMpUEMwPWXOYi7vyYpAA_lDo_xGwfNl8m5t8c/edit?usp=sharing) and sends you a news digest coming from various regions of Russia.
 it comes in two versions: Russian (original) and English (translated with google translate).
@@ -16,7 +16,7 @@ these digests are accesible in this online [archive](https://cho-tam.blogspot.co
 
 any suggestions are more than welcome. just contact me via this [email](veronika.snoj@gmail.com)
 
-*further action points i'd like to work on: 
+*further action points i'd like to work on:* 
 
-- find a way to parse YouTube channels
-- ... and podcast feeds*
+- *find a way to parse YouTube channels*
+- *... and podcast feeds*
